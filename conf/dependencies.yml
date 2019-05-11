@@ -1,10 +1,6 @@
 # Application dependencies
 
 require:
-<<<<<<< HEAD
     - play 1.5.2
     - org.postgresql -> postgresql 42.2.2:
        force: true
-=======
-    - play
->>>>>>> 19cb0a34235632c03fc9801c6d6ddcf7878b473e
